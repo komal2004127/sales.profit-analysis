@@ -20,3 +20,4 @@ This project explores a small retail sales dataset to analyze profits across cit
 ## 📌 How to Run
 ```bash
 python analysis.py
+pip install pandas matplotlib
